@@ -39,7 +39,7 @@ FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
 	SECTION UI = "AcpiTables"
 }
 
-// Mainline device tree blob (use from sm-8150 mainline - https://gitlab.com/sm8150-mainline/linux/-/blob/sm8150/5.17/arch/arm64/boot/dts/qcom/sm8150-oneplus-hotdogb.dts)
+// Mainline device tree blob (use from sm-8150 mainline - https://gitlab.postmarketos.org/soc/qualcomm-sm8150/linux/-/tree/sm8150/6.17/arch/arm64/boot/dts/qcom/sm8150-oneplus-hotdogb.dts)
 FILE FREEFORM = 25462CDA-221F-47DF-AC1D-259CFAA4E326 {
   SECTION RAW = Platform/Oneplus/sm8150/FdtBlob/sm8150-oneplus-hotdogb.dtb
 }
